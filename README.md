@@ -17,8 +17,8 @@ This is a React Native Internship Assignment built with Expo and TypeScript. It 
 
 ## 🎥 Walkthrough & Demo
 
-- **Live Expo Snack:** 
-- **Video Walkthrough (Loom):** 
+- **Live Expo Snack:**(https://snack.expo.dev/@piyush851/turf)
+- **Video Walkthrough (Loom):** (https://www.loom.com/share/4d5ff389a0f04054bcbdbbe6e834422e)
 
 ## ✅ Evaluation Levels Achieved
 
