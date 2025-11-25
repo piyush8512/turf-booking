@@ -1,0 +1,17 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+, "components/booking/DateSelector.tsx", "components/booking/TimeSelector.tsx", "components/booking/CourtSelector.tsx", "components/booking/PlayerCounter.tsx", "components/booking/PriceBreakup.tsx", "components/turf/TurfInfo.tsx", "components/turf/TurfFacilities.tsx", "components/turf/TurfOffers.tsx", "app/(tabs)/bookings.tsx"  ]
+}

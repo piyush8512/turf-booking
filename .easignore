@@ -1,0 +1,11 @@
+# .easignore
+.git
+node_modules
+.expo
+dist
+web-build
+.idea
+.vscode
+__generated__
+android
+ios
